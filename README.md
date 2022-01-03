@@ -27,3 +27,4 @@ If you want more real-time communication, you can visit our community on [Slack]
 ### Fonts Used
 
 https://fonts.google.com/specimen/Poppins# snippet-template-starter
+![Screenshot 2022-01-03 at 17-29-13 Snipper](https://user-images.githubusercontent.com/82536545/147948967-7fafe89c-d997-4d36-8c91-76ba08ad9d97.png)
